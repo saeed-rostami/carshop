@@ -374,7 +374,7 @@ transform: scale(1);
 /*end-q-section*/
 
 .footer{
-    background-color: var(--mainYellow);
+    background-color: var(--mainBlack);
 }
 .footer a{
     transition: 1s all ease-in-out;
